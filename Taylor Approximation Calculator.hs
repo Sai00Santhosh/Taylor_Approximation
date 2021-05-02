@@ -1,12 +1,4 @@
-{- Assignment 1
- - Name: Sai Santhosh Thunga
- - Date: October 7th, 2020
- -}
-
-module Assign_1 where
-macid :: String
-macid = "thungas"
-
+-- Taylor Approximation
 
 factorial :: Integer -> Integer
 factorial n = if n > 0
