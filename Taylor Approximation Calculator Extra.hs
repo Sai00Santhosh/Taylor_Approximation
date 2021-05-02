@@ -1,12 +1,4 @@
-{- Assignment 1 Extra Credit
- - Name: Sai Santhosh Thunga
- - Date: October 4th, 2020
- -}
-
-module Assign_1_ExtraCredit where
-
-macid :: String
-macid = "thungas"
+-- Taylor Approximation Extra
 
 
 factorial :: Integer -> Integer
